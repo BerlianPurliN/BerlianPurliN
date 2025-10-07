@@ -2,9 +2,13 @@
 
 A Student From SMK TELKOM SIDOARJO🚀
 
+
+
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cllmenova) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berlian-purli-novarianto-8b0077345/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@theycallme_nova)
+
+
 
 ## 💻 Tech Stack:
 
